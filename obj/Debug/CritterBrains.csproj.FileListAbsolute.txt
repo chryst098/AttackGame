@@ -1,0 +1,10 @@
+C:\Users\AA185298\Downloads\Critterworld-master\CritterWorld\bin\Debug\CritterBrain.dll
+C:\Users\AA185298\Downloads\Critterworld-master\CritterWorld\bin\Debug\CritterBrain.pdb
+C:\Users\AA185298\Downloads\Critterworld-master\CritterBrains\obj\Debug\CritterBrains.csproj.CoreCompileInputs.cache
+C:\Users\AA185298\Downloads\Critterworld-master\CritterBrains\obj\Debug\CritterBrain.dll
+C:\Users\AA185298\Downloads\Critterworld-master\CritterBrains\obj\Debug\CritterBrain.pdb
+C:\Users\chrys\Downloads\Critterworld-master (2)\Critterworld-master\CritterWorld\bin\Debug\CritterBrain.dll
+C:\Users\chrys\Downloads\Critterworld-master (2)\Critterworld-master\CritterWorld\bin\Debug\CritterBrain.pdb
+C:\Users\chrys\Downloads\Critterworld-master (2)\Critterworld-master\CritterBrains\obj\Debug\CritterBrains.csprojAssemblyReference.cache
+C:\Users\chrys\Downloads\Critterworld-master (2)\Critterworld-master\CritterBrains\obj\Debug\CritterBrain.dll
+C:\Users\chrys\Downloads\Critterworld-master (2)\Critterworld-master\CritterBrains\obj\Debug\CritterBrain.pdb
